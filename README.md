@@ -24,8 +24,6 @@ About me:
 <br />
  📫 How to reach me:
 
-
-
 <p align="center">
   <a href="https://www.facebook.com/bookk229/" alt="Facebook">
     <img width="46" height="46" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/>
@@ -41,24 +39,34 @@ About me:
   </a>
 </p>
 
-## Things that i'm learning now:
-<p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/>
-</p>
+# 💻Tech Stack
 
-## Activities:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+
+
+
+## 📊 GitHub Stats :
 
 <table style="width:100%;">
   <tr>
     <td  align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonebook32003&layout=compact&theme=onedark" alt="tonebook32003" width="430px"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=onedark" alt="tonebook32003" width="430px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonebook32003&layout=compact&theme=dark" alt="tonebook32003" width="430px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=dark" alt="tonebook32003" width="430px"/>
     </td>
     <td>
       <p align="center"> 
@@ -68,3 +76,19 @@ About me:
      
   </tr>
 </table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonebook32003&theme=dark&hide_border=false" alt="tonebook32003" width="430px">
+</div>
+
+## 🏆GitHub Trophies
+
+![](https://github-trophies.vercel.app/?username=tonebook32003&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=tonebook32003&icon=0&color=0)](https://visitcount.itsvg.in)
+
