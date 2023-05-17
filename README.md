@@ -56,9 +56,9 @@ About me:
 
 <table style="width:100%;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonebook32003&layout=compact&theme=transparent" alt="tonebook32003" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=transparent" alt="tonebook32003" width="100%"/>
+    <td  align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonebook32003&layout=compact&theme=onedark" alt="tonebook32003" width="430px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=onedark" alt="tonebook32003" width="430px"/>
     </td>
     <td>
       <p align="center"> 
