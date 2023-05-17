@@ -57,7 +57,7 @@ About me:
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonebook32003&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tonebook32003" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonebook32003&layout=compact&theme=transparent" alt="tonebook32003" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=transparent" alt="tonebook32003" width="100%"/>
     </td>
     <td>
@@ -65,5 +65,6 @@ About me:
         <img src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" alt="dev" width="100%"/>
       </p>
     </td>
+     
   </tr>
 </table>
