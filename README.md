@@ -41,7 +41,7 @@ About me:
   </a>
 </p>
 
-## Skills:
+## Things that i am learning now:
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript--v1"/>
