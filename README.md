@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Do Cong Ton Sach</h1>
 <p align="center">
-  <h4 align="center">I’m currently learning Information Technology at <br/>Ho Chi Minh City University of Food Industry</h2>
 </p>
+About me:
+
+- 💼 I'm currently study Information Technology at HCMC University of Food Industry
+
+- 💬 Ask me about anything [here](https://github.com/tonebook32003/tonebook32003/issues)
 <br />
  📫 How to reach me:
 
@@ -41,10 +45,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript--v1"/>
-  <img width="48" height="48" src="">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/>
 </p>
 
 ## Activities:
