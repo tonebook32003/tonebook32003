@@ -82,11 +82,15 @@ About me:
 
 ## 🏆GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=tonebook32003&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=tonebook32003&theme=onedark&no-frame=false&no-bg=false&margin-w=4">
+</div>
 
 ### ✍️Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</div>
 
 ---
 
