@@ -22,6 +22,7 @@ About me:
 
 - 💬 Ask me about anything [here](https://github.com/tonebook32003/tonebook32003/issues)
 <br />
+
  📫 How to reach me:
 
 <p align="center">
@@ -94,7 +95,7 @@ About me:
 
 ---
 
-<a  href="https://visitcount.itsvg.in">
-  <img align="right" src="https://visitcount.itsvg.in/api?id=tonebook32003&label=Profile%20Views&color=1&icon=1&pretty=false" />
+<a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=tonebook32003&style=for-the-badge">
 </a>
 
