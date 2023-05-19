@@ -71,7 +71,7 @@ About me:
     </td>
     <td>
       <p align="center"> 
-        <img src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" alt="dev" width="100%"/>
+        <img src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e47t18nqjytjpttmkvcf0xta60nil644tdn4fbqqk2y&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="dev" width="100%"/>
       </p>
     </td>
      
