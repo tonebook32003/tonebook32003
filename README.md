@@ -74,7 +74,7 @@ About me:
 <div>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="tonebook32003" width="430px"/>
      <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=tokyonight" alt="tonebook32003" width="430px"/>
-     <img src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e47t18nqjytjpttmkvcf0xta60nil644tdn4fbqqk2y&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="dev" width="400px"/>
+     <img src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e47t18nqjytjpttmkvcf0xta60nil644tdn4fbqqk2y&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="dev" width="200px"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonebook32003&theme=tokyonight&hide_border=false" alt="tonebook32003" width="430px">
