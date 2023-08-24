@@ -78,7 +78,7 @@ About me:
 ## 🏆GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=tonebook32003&theme=synthwave&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-trophies.vercel.app/?username=tonebook32003&theme=dark&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 ### ✍️Random Dev Quote
