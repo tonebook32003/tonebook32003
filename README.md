@@ -60,7 +60,7 @@ About me:
 <table style="width:100%;">
   <tr>
     <td  align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonebook32003&layout=Donut Chart&theme=synthwave" alt="tonebook32003" width="430px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonebook32003&layout=DonutChart&theme=synthwave" alt="tonebook32003" width="430px"/>
       <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=synthwave" alt="tonebook32003" width="430px"/>
     </td>
     <td>
