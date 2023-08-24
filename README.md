@@ -57,7 +57,7 @@ About me:
 
 ## 📊 GitHub Stats :
 
-<table style="width:70%;">
+<table style="width:50%;">
   <tr>
     <td  align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="tonebook32003" width="430px"/>
