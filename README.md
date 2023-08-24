@@ -60,7 +60,7 @@ About me:
 <table style="width:100%;">
   <tr>
     <td  align="center">
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="tonebook32003" width="430px"/>
       <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=synthwave" alt="tonebook32003" width="430px"/>
     </td>
     <td>
