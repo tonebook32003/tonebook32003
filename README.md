@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 About me:
 
-- 💼 I'm currently study Information Technology at HCMC University of Food Industry
+- 💼 I'm currently study Information Technology at HCMC University of Industry and Trade
 
 - 💬 Ask me about anything [here](https://github.com/tonebook32003/tonebook32003/issues)
 <br />
