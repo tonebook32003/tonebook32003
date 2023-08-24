@@ -60,8 +60,8 @@ About me:
 <table style="width:100%;">
   <tr>
     <td  align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonebook32003&layout=compact&theme=dark" alt="tonebook32003" width="430px"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=dark" alt="tonebook32003" width="430px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonebook32003&layout=compact&theme=synthwave" alt="tonebook32003" width="430px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=synthwave" alt="tonebook32003" width="430px"/>
     </td>
     <td>
       <p align="center"> 
@@ -72,19 +72,19 @@ About me:
   </tr>
 </table>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonebook32003&theme=dark&hide_border=false" alt="tonebook32003" width="430px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonebook32003&theme=synthwave&hide_border=false" alt="tonebook32003" width="430px">
 </div>
 
 ## 🏆GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=tonebook32003&theme=onedark&no-frame=false&no-bg=false&margin-w=4">
+  <img src="https://github-trophies.vercel.app/?username=tonebook32003&theme=synthwave&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 ### ✍️Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave">
 </div>
 
 ---
