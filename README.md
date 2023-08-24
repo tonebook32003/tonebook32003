@@ -72,7 +72,7 @@ About me:
   </tr>
 </table>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonebook32003&theme=synthwave&hide_border=false" alt="tonebook32003" width="430px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonebook32003&theme=tokyonight&hide_border=false" alt="tonebook32003" width="430px">
 </div>
 
 ## 🏆GitHub Trophies
