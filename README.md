@@ -56,21 +56,6 @@ About me:
 
 
 ## 📊 GitHub Stats :
-
-<table style="width:50%;">
-  <tr>
-    <td  align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="tonebook32003" width="430px"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=tokyonight" alt="tonebook32003" width="430px"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e47t18nqjytjpttmkvcf0xta60nil644tdn4fbqqk2y&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="dev" width="100%"/>
-      </p>
-    </td>
-
-  </tr>
-</table>
 <div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="tonebook32003" width="430px"/>
 </div>
