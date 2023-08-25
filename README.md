@@ -67,6 +67,17 @@ About me:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonebook32003&theme=tokyonight&hide_border=false" alt="tonebook32003" width="430px">
 </div>
 
+<table>
+   <tr>
+    <th>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="tonebook32003" width="430px"/>
+    </th>
+    <th>
+     <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=tokyonight" alt="tonebook32003" width="430px"/>
+    </th>
+   </tr>
+</table>
+
 ## 🏆GitHub Trophies
 
 <div align="center">
