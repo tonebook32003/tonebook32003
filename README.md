@@ -60,7 +60,7 @@ About me:
 <table>
    <tr>
     <th>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="tonebook32003" width="430px"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="tonebook32003" height="200px" width="430px"/>
     </th>
     <th>
      <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=tokyonight" alt="tonebook32003" width="430px"/>
