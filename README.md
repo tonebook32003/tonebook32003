@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Do Cong Ton Sach</h1>
 <p align="center">
+  About me:
 </p>
-About me:
 
 - 💼 I'm currently study Information Technology at HCMC University of Industry and Trade
 
