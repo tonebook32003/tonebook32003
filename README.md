@@ -60,12 +60,9 @@ About me:
    <tr>
     <th>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="tonebook32003" height="180px" width="430px"/>
-       <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=tokyonight" alt="tonebook32003" height="200px" width="430px"/>
     </th>
     <th>
-    <div>
-      <a align="center" href="https://app.daily.dev/bookkisme"><img src="https://api.daily.dev/devcards/c4b9366553a24793bbc301b3266b5715.png?r=g6b" width="300" alt="Đỗ Công Tôn Sách's Dev Card"/></a>
-    </div>
+       <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=tokyonight" alt="tonebook32003" height="200px" width="430px"/>
     </th>
    </tr>
 </table>
