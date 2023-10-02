@@ -64,7 +64,7 @@ About me:
     </th>
     <th>
     <div>
-      <a align="center" href="https://app.daily.dev/bookkisme"><img src="https://api.daily.dev/devcards/c4b9366553a24793bbc301b3266b5715.png?r=g6b" width="200" alt="Đỗ Công Tôn Sách's Dev Card"/></a>
+      <a align="center" href="https://app.daily.dev/bookkisme"><img src="https://api.daily.dev/devcards/c4b9366553a24793bbc301b3266b5715.png?r=g6b" width="300" alt="Đỗ Công Tôn Sách's Dev Card"/></a>
     </div>
     </th>
    </tr>
