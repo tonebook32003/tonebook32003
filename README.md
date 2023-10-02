@@ -24,10 +24,9 @@ About me:
 <br />
 -->
 <div>
-  <a align="center" href="https://app.daily.dev/bookkisme"><img src="https://api.daily.dev/devcards/c4b9366553a24793bbc301b3266b5715.png?r=g6b" width="400" alt="Đỗ Công Tôn Sách's Dev Card"/></a>
+  <a align="center" href="https://app.daily.dev/bookkisme"><img src="https://api.daily.dev/devcards/c4b9366553a24793bbc301b3266b5715.png?r=g6b" width="200" alt="Đỗ Công Tôn Sách's Dev Card"/></a>
 </div>
  📫 How to reach me:
-
 <p align="center">
   <a href="https://www.facebook.com/bookk229/" alt="Facebook">
     <img width="46" height="46" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/>
@@ -70,9 +69,7 @@ About me:
     </th>
    </tr>
 </table>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonebook32003&theme=tokyonight&hide_border=false" alt="tonebook32003" width="430px">
-</div>
+
 
 
 ## 🏆GitHub Trophies
