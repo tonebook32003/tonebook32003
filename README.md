@@ -23,9 +23,6 @@ About me:
 - 💬 Ask me about anything [here](https://github.com/tonebook32003/tonebook32003/issues)
 <br />
 -->
-<div>
-  <a align="center" href="https://app.daily.dev/bookkisme"><img src="https://api.daily.dev/devcards/c4b9366553a24793bbc301b3266b5715.png?r=g6b" width="200" alt="Đỗ Công Tôn Sách's Dev Card"/></a>
-</div>
  📫 How to reach me:
 <p align="center">
   <a href="https://www.facebook.com/bookk229/" alt="Facebook">
@@ -63,9 +60,12 @@ About me:
    <tr>
     <th>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="tonebook32003" height="180px" width="430px"/>
+       <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=tokyonight" alt="tonebook32003" height="200px" width="430px"/>
     </th>
     <th>
-     <img src="https://github-readme-stats.vercel.app/api?username=tonebook32003&show_icons=true&theme=tokyonight" alt="tonebook32003" height="200px" width="430px"/>
+    <div>
+      <a align="center" href="https://app.daily.dev/bookkisme"><img src="https://api.daily.dev/devcards/c4b9366553a24793bbc301b3266b5715.png?r=g6b" width="200" alt="Đỗ Công Tôn Sách's Dev Card"/></a>
+    </div>
     </th>
    </tr>
 </table>
