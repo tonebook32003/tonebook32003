@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 <h1 align="center">Hi, I'm Do Cong Ton Sach</h1>
 <p align="center">
 </p>
@@ -22,7 +22,7 @@ About me:
 
 - 💬 Ask me about anything [here](https://github.com/tonebook32003/tonebook32003/issues)
 <br />
--->
+
  📫 How to reach me:
 <p align="center">
   <a href="https://www.facebook.com/bookk229/" alt="Facebook">
