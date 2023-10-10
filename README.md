@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Do Cong Ton Sach</h1>
 <p>About me:</p>
-- 💼 I'm currently study Information Technology at HCMC University of Industry and Trade
+-  💼 I'm currently study Information Technology at HCMC University of Industry and Trade
 
-- 💬 Ask me about anything [here](https://github.com/tonebook32003/tonebook32003/issues)
+-  💬 Ask me about anything [here](https://github.com/tonebook32003/tonebook32003/issues)
 <br />
 
  📫 How to reach me:
