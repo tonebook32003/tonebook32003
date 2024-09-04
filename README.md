@@ -105,9 +105,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/tonebook32003" alt="Github">
     <img width="48" height="48" src="https://img.icons8.com/sf-black-filled/48/github.png" alt="github"/>
   </a> 
-  <a href="https://www.tiktok.com/@buchh22n" alt="Tiktok" target="_blank" >
-    <img width="48" height="48" src="https://img.icons8.com/color/48/tiktok--v1.png" alt="tiktok--v1"/>
-  </a>
   <a href="mailto:tonsach32003@gmail.com" alt="Email">
     <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
   </a>
