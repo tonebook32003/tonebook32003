@@ -24,13 +24,8 @@
 </p>
 &nbsp;
 &nbsp;
-  <p align="center">
-            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tonebook32003&theme=dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=496" alt="GitHub Streak" /></a>
-  </p>
 
 <h2 aligh="left">💻 Tech Stack</h2>
-
-
 
 <h3 aligh="left">🎨 Front-end</h2>
 
@@ -71,6 +66,9 @@
 &nbsp;
 
 &nbsp;
+  <p align="center">
+            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tonebook32003&theme=dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=496" alt="GitHub Streak" /></a>
+  </p>
 &nbsp;
 <center>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonebook32003&theme=chalk" alt="tonebook32003" /></a> </p>
