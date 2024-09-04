@@ -20,21 +20,7 @@ Here are some ideas to get you started:
 -  💬 Ask me about anything [here](https://github.com/tonebook32003/tonebook32003/issues)
 <br />
 
- 📫 How to reach me:
-<p align="center">
-  <a href="https://www.facebook.com/bookk229/" alt="Facebook">
-    <img width="46" height="46" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/>
-  </a> 
-  <a href="https://github.com/tonebook32003" alt="Github">
-    <img width="48" height="48" src="https://img.icons8.com/sf-black-filled/48/github.png" alt="github"/>
-  </a> 
-  <a href="https://www.tiktok.com/@buchh22n" alt="Tiktok" target="_blank" >
-    <img width="48" height="48" src="https://img.icons8.com/color/48/tiktok--v1.png" alt="tiktok--v1"/>
-  </a>
-  <a href="mailto:tonsach32003@gmail.com" alt="Email">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
-  </a>
-</p>
+
 
 <h2 aligh="left">💻 Tech Stack</h2>
 
@@ -110,6 +96,22 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+ 📫 How to reach me:
+<p align="center">
+  <a href="https://www.facebook.com/bookk229/" alt="Facebook">
+    <img width="46" height="46" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/>
+  </a> 
+  <a href="https://github.com/tonebook32003" alt="Github">
+    <img width="48" height="48" src="https://img.icons8.com/sf-black-filled/48/github.png" alt="github"/>
+  </a> 
+  <a href="https://www.tiktok.com/@buchh22n" alt="Tiktok" target="_blank" >
+    <img width="48" height="48" src="https://img.icons8.com/color/48/tiktok--v1.png" alt="tiktok--v1"/>
+  </a>
+  <a href="mailto:tonsach32003@gmail.com" alt="Email">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
+  </a>
+</p>
 
 <a>
   <img align="right" src="https://komarev.com/ghpvc/?username=tonebook32003&style=for-the-badge">
