@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Do Cong Ton Sach</h1>
+<h1 align="center">Hi 👋, I'm Do Cong Ton Sach ( You can call me Bookk 📚 )</h1>
 <h3 align="center">A senior student majoring in Information Technology at HCM University of Industry and Trade, I possess foundational knowledge in programming, web design, and data analysis. Passionate about applying technology to solve real-world problems</h3>
 <img align="right" alt="Coding" width="330" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
@@ -14,13 +14,14 @@
             
             - 📫 How to reach me tonsach32003@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/bookk22sep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bookk22sep" height="30" width="40" /></a>
 <a href="https://fb.com/bookk229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bookk229" height="30" width="40" /></a>
 <a href="https://instagram.com/22.bookk_sep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="22.bookk_sep" height="30" width="40" /></a>
 </p>
-
+&nbsp;
+&nbsp;
   <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tonebook32003&theme=dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=496" alt="GitHub Streak" /></a>
   </p>
