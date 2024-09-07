@@ -1,7 +1,12 @@
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"></img>
 
 <h1 align="center">Hi 👋, I'm Do Cong Ton Sach ( You can call me Bookk 📚 )</h1>
-<h3 align="center">A senior student majoring in Information Technology at HCM University of Industry and Trade, I possess foundational knowledge in programming, web design, and data analysis. Passionate about applying technology to solve real-world problems</h3>
+<h3 align="center">
+    __________▄▀▄_________▄▀▄
+─────▄█░░▀▀▀▀▀░░█▄
+─▄▄──█░░░░░░░░░░░█──▄▄
+█▄▄█─█░░▀░░┬░░▀░░█─█▄▄
+</h3>
 <img align="right" alt="Coding" width="330" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
     🔥 I’m currently learning React
