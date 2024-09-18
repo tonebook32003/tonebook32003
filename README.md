@@ -1,13 +1,14 @@
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"></img>
 
 <h3 align="center">
-    <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Do+Cong+Ton+Sach" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&width=600&lines=My+name+is+Do+Cong+Ton+Sach+(+Bookk+)" alt="Typing SVG" /></a>
 </h3>
-<img align="right" alt="Coding" width="330" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+
+<div align="center">
+    
+    🏫 Senior in Information Technology at HCM University of Industry and Trade 
 
     🔥 I’m currently learning React
-            
-    🏫 Senior in Information Technology at HCM University of Industry and Trade 
              
     💬 Ask me about React, VueJS
             
@@ -16,6 +17,8 @@
     💪🏻 I love coding and going to the gym.
             
     😁 You can call me Bookk
+    
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
