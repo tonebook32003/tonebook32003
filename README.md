@@ -8,16 +8,11 @@
     
     🏫 Senior in Information Technology at HCM University of Industry and Trade 
 
-    🔥 I’m currently learning React
-             
-    💬 Ask me about React, VueJS
+    🔥 I’m currently learning React, NextJS, VueJS
             
     📫 How to reach me tonsach32003@gmail.com
             
     💪🏻 I love coding and going to the gym.
-            
-    😁 You can call me Bookk
-    
 </div>
 
 <h3 align="center">Connect with me:</h3>
