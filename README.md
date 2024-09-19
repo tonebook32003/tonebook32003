@@ -17,10 +17,17 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/bookk22sep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bookk22sep" height="30" width="40" /></a>
-<a href="https://fb.com/bookk229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bookk229" height="30" width="40" /></a>
-<a href="https://instagram.com/22.bookk_sep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="22.bookk_sep" height="30" width="40" /></a>
-<p align="center">
+    <div align="center"> 
+  <a href="mailto:tonsach32003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.instagram.com/22.bookk_sep/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-b6327b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.facebook.com/bookk229/" target="_blank">
+     <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 </p>
 &nbsp;
 &nbsp;
