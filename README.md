@@ -33,25 +33,9 @@
 &nbsp;
 
 <h2 aligh="left">💻 Tech Stack</h2>
-
-<h3 aligh="left">🎨 Front-end</h2>
-<p align="">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,redux,sass,bootstrap,python,django,c,cs" />
-  </a>
-</p>
-
-<h3 aligh="left">🛢️ Database</h2>
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-  </a>
-</p>
-
-<h3 aligh="left">🛠 Other</h2>
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma," />
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,react,next,redux,sass,bootstrap,python,django,c,cs,mongodb,mysql,postgres,git,figma" />
   </a>
 </p>
 
