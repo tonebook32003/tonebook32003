@@ -18,16 +18,23 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <div align="center"> 
+    <a href="https://www.linkedin.com/in/docongtonsach/" target="_blank">
+     <img src="https://img.shields.io/badge/Linkdin-0270ad?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
+  </a>
   <a href="mailto:tonsach32003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/22.bookk_sep/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-b6327b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.facebook.com/bookk229/" target="_blank">
-     <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+<a href="https://x.com/bookk22sep" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
 </div>
+
 </p>
 &nbsp;
 &nbsp;
