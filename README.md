@@ -47,13 +47,17 @@
 </p>
 
 &nbsp;
-  <p align="center">
-            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tonebook32003&theme=dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=496" alt="GitHub Streak" /></a>
-  </p>
-&nbsp;
 <center>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonebook32003&theme=chalk" alt="tonebook32003" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonebook32003&theme=chalk&no-bg=true" alt="tonebook32003" /></a> </p>
 </center>
+
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonebook32003&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tonebook32003&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tonebook32003&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tonebook32003&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonebook32003&theme=transparent" height="180em" alt="Commitments"/>
+</div>
 
 <a>
   <img align="right" src="https://komarev.com/ghpvc/?username=tonebook32003&style=for-the-badge">
