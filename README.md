@@ -30,9 +30,9 @@
   <a href="https://www.facebook.com/bookk229/" target="_blank">
      <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
-<a href="https://x.com/bookk22sep" target="_blank">
+<!-- <a href="https://x.com/bookk22sep" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
-  </a>
+  </a> -->
 </div>
 
 </p>
