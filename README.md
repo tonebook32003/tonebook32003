@@ -47,9 +47,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tonebook32003&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/tonebook32003/tonebook32003/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/tonebook32003/tonebook32003/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=izdannychu&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/izdannychu/izdannychu/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/izdannychu/izdannychu/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -57,9 +57,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonebook32003/tonebook32003/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonebook32003/tonebook32003/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tonebook32003/tonebook32003/pacman-output/galaga-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izdannychu/izdannychu/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izdannychu/izdannychu/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/izdannychu/izdannychu/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
 ###
