@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&width=600&lines=My+name+is+Do+Cong+Ton+Sach+(+Bookk+)" alt="Typing SVG" /></a>
 </h3>
 
-<div align="center">
+<!-- <div align="center">
     
     🏫 Senior in Information Technology at HCM University of Industry and Trade 
 
@@ -13,7 +13,7 @@
     📫 How to reach me tonsach32003@gmail.com
             
     💪🏻 I love coding and going to the gym.
-</div>
+</div> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
