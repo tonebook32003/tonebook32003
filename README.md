@@ -42,14 +42,14 @@
 <h2 aligh="left">💻 Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,react,next,redux,sass,bootstrap,python,django,c,cs,mongodb,mysql,postgres,git,figma" />
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,react,next,redux,sass,bootstrap,python,django,mongodb,mysql,postgres,git,figma" />
   </a>
 </p>
 
 &nbsp;
-<center>
+<!-- <center>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonebook32003&theme=chalk&no-bg=true" alt="tonebook32003" /></a> </p>
-</center>
+</center> -->
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tonebook32003&theme=transparent" height="180em" alt="Stats"/>
